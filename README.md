@@ -1,4 +1,4 @@
-👋 Hi, I’m Avraham(Avi) Kolodkin and this is a source for STP, STD and STR documents a site called Jpetstore which is meant for the purchase of pets.
+
 
 the link to the site is https://petstore.octoperf.com/actions/Catalog.action
 if you want to experiment with the site yourself as an:
