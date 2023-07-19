@@ -1,4 +1,4 @@
-👋 Hi, I’m Avraham(Avi) Kolodkin and this is a source for testing a site called Jpetstore which is meant for the purchase of pets.
+👋 Hi, I’m Avraham(Avi) Kolodkin and this is a source for STD,STR, and STP documents testing project made on the website Jpetstore.
 
 the link to the site is https://petstore.octoperf.com/actions/Catalog.action
 if you want to experiment with the site yourself as an:
